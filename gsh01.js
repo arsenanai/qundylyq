@@ -1,8 +1,8 @@
 const gsh = {
     data() {
         return {
-            SPREADSHEET_ID: '1H1OefSrhdwBwwr9cWeXIXOBRmw9TErt4mrKxj2My8p0',
-            sheets        : [1,2,4,5,6,7,8],
+            SPREADSHEET_ID: '1fArm8tzpgF7FzCcXCO2Nrx1QqT5Uj1BO-3EzAG3YSus',
+            sheets        : [1],
             controller    : new AbortController(),
             answers       : [],
             response      : null,

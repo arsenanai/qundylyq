@@ -12,7 +12,7 @@ createApp({
     },
     computed: {
         formIsValid() {
-            return this.certificate.length > 9
+            return this.certificate.length > 0
         },
     },
     methods: {
